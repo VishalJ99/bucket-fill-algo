@@ -1,0 +1,13 @@
+name: bucket-fill-algo
+channels:
+  - defaults
+dependencies:
+  - black
+  - flake8
+  - matplotlib
+  - numpy
+  - pandas
+  - pre-commit
+  - pytest
+  - scipy
+  - sphinx
